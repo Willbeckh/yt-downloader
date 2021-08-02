@@ -1,3 +1,5 @@
 # yt-downloader
 youtube video downloader using python
-update coming soon
+create virtual environment 'virtualenv env'
+pip install requirements.txt
+
