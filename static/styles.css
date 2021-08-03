@@ -1,0 +1,41 @@
+body{
+  margin: 0 auto;
+  padding: 10px;
+  height: 600px;
+  width: 400px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+  color: #bd1010;
+}
+
+.container{
+  padding: 8px;
+  height: 80%;
+  text-align: center;
+  background-color: aqua;
+}
+
+input{
+  border: 1px solid #000;
+  border-radius: 8px;
+  padding: 4px;
+  background-color: #c4bebe;
+}
+
+.link-field{
+  text-align: center;
+  width: 60%;
+}
+
+.about {
+  width: 50%;
+  height: auto;
+  margin: 0 auto;
+  background-color: white;
+  position: relative;
+  top: 50px;
+  border: 1px dotted red;
+  border-radius: 20px;
+}
